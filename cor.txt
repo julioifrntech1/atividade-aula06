@@ -1,1 +1,1 @@
-cor: roxo - terceira opção escolhida
+cor: amarelo - escolha da master
