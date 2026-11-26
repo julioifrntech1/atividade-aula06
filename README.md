@@ -16,4 +16,4 @@ Entre na pasta:
 
 cd atividade-aula06
 
-Abra o arquivo README.md no VS Code.
+Abra o arquivo README.md no VS Code.Atividade 12 - Pull Request
